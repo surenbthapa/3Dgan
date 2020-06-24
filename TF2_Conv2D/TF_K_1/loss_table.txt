@@ -1,0 +1,198 @@
+Epoch: 1
+component              | total_loss | fake/true_loss  | AUX_loss| ECAL_loss
+-----------------------------------------------------------------
+generator (train)      | 382.20 | 2.30            | 21.65| 3640.94
+generator (test)       | 25.74 | 2.49            | 11.90| 83.96
+discriminator (train)  | 193.00 | 0.43            | 42.60| 1818.79
+discriminator (test)   | 8.57 | 0.35            | 10.91| 43.07
+Time for Epoch: 00:02:15
+
+Epoch: 2
+component              | total_loss | fake/true_loss  | AUX_loss| ECAL_loss
+-----------------------------------------------------------------
+generator (train)      | 215.68 | 2.11            | 26.59| 1976.75
+generator (test)       | 20.51 | 2.10            | 9.09 | 60.88
+discriminator (train)  | 106.90 | 0.38            | 25.48| 995.27
+discriminator (test)   | 6.84 | 0.35            | 8.31 | 30.82
+Time for Epoch: 00:02:18
+
+Epoch: 1
+component              | total_loss | fake/true_loss  | AUX_loss| ECAL_loss
+-----------------------------------------------------------------
+generator (train)      | 53.66 | 2.67            | 24.55| 327.47
+generator (test)       | 13.47 | 1.64            | 9.64 | 17.16
+discriminator (train)  | 23.25 | 0.42            | 22.12| 163.35
+discriminator (test)   | 4.65 | 0.38            | 7.65 | 8.59 
+Time for Epoch: 00:41:35
+
+Epoch: 2
+component              | total_loss | fake/true_loss  | AUX_loss| ECAL_loss
+-----------------------------------------------------------------
+generator (train)      | 29.04 | 3.15            | 23.53| 54.61
+generator (test)       | 31.03 | 3.92            | 14.61| 46.05
+discriminator (train)  | 8.45 | 0.36            | 17.76| 27.41
+discriminator (test)   | 7.03 | 0.38            | 12.40| 22.82
+Time for Epoch: 00:39:39
+
+Epoch: 3
+component              | total_loss | fake/true_loss  | AUX_loss| ECAL_loss
+-----------------------------------------------------------------
+generator (train)      | 23.62 | 2.76            | 18.80| 32.97
+generator (test)       | 36.79 | 3.74            | 38.57| 66.22
+discriminator (train)  | 6.36 | 0.34            | 13.42| 16.52
+discriminator (test)   | 9.52 | 0.33            | 21.23| 32.97
+Time for Epoch: 00:39:51
+
+Epoch: 4
+component              | total_loss | fake/true_loss  | AUX_loss| ECAL_loss
+-----------------------------------------------------------------
+generator (train)      | 19.11 | 2.60            | 9.63 | 15.97
+generator (test)       | 16.85 | 2.47            | 6.78 | 6.84 
+discriminator (train)  | 4.28 | 0.33            | 7.49 | 8.01 
+discriminator (test)   | 3.15 | 0.31            | 4.67 | 3.41 
+Time for Epoch: 00:39:40
+
+Epoch: 5
+component              | total_loss | fake/true_loss  | AUX_loss| ECAL_loss
+-----------------------------------------------------------------
+generator (train)      | 26.86 | 3.30            | 19.76| 31.34
+generator (test)       | 23.27 | 2.88            | 18.44| 23.06
+discriminator (train)  | 6.02 | 0.34            | 12.08| 15.69
+discriminator (test)   | 5.12 | 0.31            | 10.49| 11.52
+Time for Epoch: 00:42:01
+
+Epoch: 6
+component              | total_loss | fake/true_loss  | AUX_loss| ECAL_loss
+-----------------------------------------------------------------
+generator (train)      | 28.87 | 3.13            | 24.95| 51.13
+generator (test)       | 69.01 | 5.12            | 155.04| 72.98
+discriminator (train)  | 7.22 | 0.33            | 13.37| 25.55
+discriminator (test)   | 21.58 | 0.36            | 78.88| 36.54
+Time for Epoch: 00:42:17
+
+Epoch: 7
+component              | total_loss | fake/true_loss  | AUX_loss| ECAL_loss
+-----------------------------------------------------------------
+generator (train)      | 31.10 | 3.31            | 31.11| 50.09
+generator (test)       | 59.04 | 5.43            | 105.61| 53.61
+discriminator (train)  | 7.72 | 0.35            | 15.64| 25.08
+discriminator (test)   | 15.95 | 0.37            | 55.18| 26.65
+Time for Epoch: 00:41:43
+
+Epoch: 8
+component              | total_loss | fake/true_loss  | AUX_loss| ECAL_loss
+-----------------------------------------------------------------
+generator (train)      | 51.77 | 6.46            | 37.47| 54.99
+generator (test)       | 11.12 | 1.50            | 6.72 | 8.02 
+discriminator (train)  | 9.22 | 0.44            | 19.31| 27.33
+discriminator (test)   | 3.80 | 0.40            | 5.02 | 4.05 
+Time for Epoch: 00:40:48
+
+Epoch: 9
+component              | total_loss | fake/true_loss  | AUX_loss| ECAL_loss
+-----------------------------------------------------------------
+generator (train)      | 11.06 | 1.46            | 6.86 | 9.13 
+generator (test)       | 9.42 | 1.24            | 6.00 | 8.09 
+discriminator (train)  | 4.36 | 0.49            | 4.83 | 4.57 
+discriminator (test)   | 4.38 | 0.53            | 4.01 | 4.03 
+Time for Epoch: 00:40:24
+
+Epoch: 10
+component              | total_loss | fake/true_loss  | AUX_loss| ECAL_loss
+-----------------------------------------------------------------
+generator (train)      | 9.81 | 1.29            | 6.32 | 8.34 
+generator (test)       | 9.17 | 1.22            | 6.02 | 6.59 
+discriminator (train)  | 4.45 | 0.53            | 4.31 | 4.17 
+discriminator (test)   | 4.19 | 0.51            | 3.95 | 3.35 
+Time for Epoch: 00:41:25
+
+Epoch: 11
+component              | total_loss | fake/true_loss  | AUX_loss| ECAL_loss
+-----------------------------------------------------------------
+generator (train)      | 9.20 | 1.21            | 6.09 | 7.53 
+generator (test)       | 7.89 | 1.02            | 5.71 | 6.48 
+discriminator (train)  | 4.49 | 0.55            | 4.07 | 3.77 
+discriminator (test)   | 4.69 | 0.60            | 3.86 | 3.26 
+Time for Epoch: 00:41:10
+
+Epoch: 12
+component              | total_loss | fake/true_loss  | AUX_loss| ECAL_loss
+-----------------------------------------------------------------
+generator (train)      | 7.96 | 1.01            | 5.92 | 7.14 
+generator (test)       | 7.23 | 0.91            | 5.73 | 6.20 
+discriminator (train)  | 4.80 | 0.61            | 3.91 | 3.57 
+discriminator (test)   | 4.72 | 0.61            | 3.74 | 3.10 
+Time for Epoch: 00:43:46
+
+Epoch: 13
+component              | total_loss | fake/true_loss  | AUX_loss| ECAL_loss
+-----------------------------------------------------------------
+generator (train)      | 7.71 | 0.98            | 5.83 | 6.81 
+generator (test)       | 8.44 | 1.06            | 5.95 | 8.93 
+discriminator (train)  | 4.79 | 0.61            | 3.84 | 3.42 
+discriminator (test)   | 4.75 | 0.59            | 3.81 | 4.46 
+Time for Epoch: 00:46:51
+
+Epoch: 14
+component              | total_loss | fake/true_loss  | AUX_loss| ECAL_loss
+-----------------------------------------------------------------
+generator (train)      | 7.87 | 1.00            | 5.78 | 6.95 
+generator (test)       | 8.52 | 1.09            | 6.92 | 6.08 
+discriminator (train)  | 4.72 | 0.60            | 3.79 | 3.47 
+discriminator (test)   | 4.52 | 0.56            | 4.31 | 3.07 
+Time for Epoch: 00:47:57
+
+Epoch: 15
+component              | total_loss | fake/true_loss  | AUX_loss| ECAL_loss
+-----------------------------------------------------------------
+generator (train)      | 7.92 | 1.01            | 5.75 | 7.05 
+generator (test)       | 8.04 | 1.03            | 6.25 | 6.08 
+discriminator (train)  | 4.70 | 0.60            | 3.73 | 3.53 
+discriminator (test)   | 4.21 | 0.52            | 3.91 | 3.01 
+Time for Epoch: 00:48:03
+
+Epoch: 16
+component              | total_loss | fake/true_loss  | AUX_loss| ECAL_loss
+-----------------------------------------------------------------
+generator (train)      | 7.73 | 0.98            | 5.80 | 6.71 
+generator (test)       | 7.20 | 0.89            | 5.92 | 6.52 
+discriminator (train)  | 4.77 | 0.61            | 3.83 | 3.35 
+discriminator (test)   | 4.95 | 0.64            | 3.81 | 3.24 
+Time for Epoch: 00:49:31
+
+Epoch: 17
+component              | total_loss | fake/true_loss  | AUX_loss| ECAL_loss
+-----------------------------------------------------------------
+generator (train)      | 7.59 | 0.96            | 5.71 | 6.83 
+generator (test)       | 7.78 | 0.99            | 5.70 | 7.00 
+discriminator (train)  | 4.74 | 0.61            | 3.76 | 3.41 
+discriminator (test)   | 4.48 | 0.57            | 3.66 | 3.53 
+Time for Epoch: 00:50:51
+
+Epoch: 18
+component              | total_loss | fake/true_loss  | AUX_loss| ECAL_loss
+-----------------------------------------------------------------
+generator (train)      | 8.17 | 1.06            | 5.74 | 6.64 
+generator (test)       | 13.45 | 1.92            | 5.99 | 7.27 
+discriminator (train)  | 4.57 | 0.58            | 3.75 | 3.33 
+discriminator (test)   | 3.46 | 0.37            | 4.31 | 3.61 
+Time for Epoch: 00:52:29
+
+Epoch: 19
+component              | total_loss | fake/true_loss  | AUX_loss| ECAL_loss
+-----------------------------------------------------------------
+generator (train)      | 7.87 | 1.01            | 5.64 | 7.05 
+generator (test)       | 7.26 | 0.88            | 5.84 | 8.29 
+discriminator (train)  | 4.90 | 0.63            | 3.81 | 3.54 
+discriminator (test)   | 5.22 | 0.68            | 3.74 | 4.12 
+Time for Epoch: 00:53:37
+
+Epoch: 20
+component              | total_loss | fake/true_loss  | AUX_loss| ECAL_loss
+-----------------------------------------------------------------
+generator (train)      | 7.71 | 0.98            | 5.82 | 6.82 
+generator (test)       | 6.99 | 0.85            | 5.61 | 7.80 
+discriminator (train)  | 4.89 | 0.63            | 3.79 | 3.40 
+discriminator (test)   | 5.12 | 0.67            | 3.62 | 3.90 
+Time for Epoch: 00:52:07
+
